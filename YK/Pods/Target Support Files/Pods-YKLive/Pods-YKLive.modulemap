@@ -1,0 +1,6 @@
+framework module Pods_YKLive {
+  umbrella header "Pods-YKLive-umbrella.h"
+
+  export *
+  module * { export * }
+}
